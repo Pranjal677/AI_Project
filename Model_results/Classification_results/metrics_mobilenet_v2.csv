@@ -1,0 +1,3 @@
+task,acc,prec,rec,fs
+biotic_stress,95.63,95.74,93.24,94.24
+severity,85.71,78.50,80.72,79.37
