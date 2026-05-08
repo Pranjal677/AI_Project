@@ -1,4 +1,0 @@
-flakeheaven
-pytest
-pytest-mock
-black
